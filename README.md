@@ -1,2 +1,1 @@
-# hello-world
-Just another repositry
+私の趣味は野球です。
